@@ -1,0 +1,3 @@
+yy = [];
+
+yy = input('Please enter value of x: ')
